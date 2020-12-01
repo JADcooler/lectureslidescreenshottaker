@@ -4,7 +4,7 @@ _______________
 pip install python-docx
 pip install keyboard
 pip install Pillow
-pip install time (maybe?)
+pip install time
 _______________
 make sure you have these modules before compiling this
 
